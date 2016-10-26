@@ -1,5 +1,5 @@
 include ':EaseUI'
-project(':EaseUI').projectDir = new File('../easeui')
+project(':EaseUI').projectDir = new File('../landlord_android/easeui')
 
 //release时需要把下面的include相关注释掉
 //include ':easemobchatsdk'
